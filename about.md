@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A programmer from China
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Like:
+  -embedded: arm, mips, dsp, ... etc.
+  -lang: c/c++, java, php, shell
+  -network
+  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zuohuiwang AT hotmail.com](mailto:zuohuiwang AT hotmail.com)
